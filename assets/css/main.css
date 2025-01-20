@@ -3,14 +3,12 @@
 /* Exo font, as used in the SDFC Logo */
 @font-face {
 	font-family: 'Exo';
-	src:	url('../fonts/Exo-Regular.woff') format('woff'),
-			url('../fonts/Exo-Regular.woff2') format('woff2');
+	src:	url('../fonts/Exo-Regular.woff') format('woff');
 }
 @font-face {
 	font-family: 'Exo';
 	font-weight: bold;
-	src:	url('../fonts/Exo-Black.woff') format('woff'),
-			url('../fonts/Exo-Black.woff2') format('woff2');
+	src:	url('../fonts/Exo-Black.woff') format('woff');
 }
 
 /*
@@ -46,6 +44,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
+		font: inherit;
 		vertical-align: baseline;
 	}
 
@@ -318,7 +317,7 @@
 
 	#main {
 		position: relative;
-		max-width: 50%;
+		max-width: 80%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		background: #ffffff;
@@ -348,11 +347,6 @@
 				width: 100%;
 				padding: 4em 2em 2.5em 2em ;
 			}
-
-				#main .avatar:before {
-					left: -2em;
-					width: calc(100% + 4em);
-				}
 
 		}
 
