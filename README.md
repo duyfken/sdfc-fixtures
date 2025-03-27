@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://swandistrictsfc.com.au/site_files/waflclub.com.au/images/club-logos/swandistrictsfc-145h.png" alt="" width="300" height="300">
+    <img src="https://swandistrictsfc.com.au/wp-content/uploads/2025/03/logo-swan-hd.png" alt="" width="300" height="300">
     <h1>SDFC Fixtures</h1>
 </div>
 
