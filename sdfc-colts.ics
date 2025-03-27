@@ -19,9 +19,10 @@ DTEND;TZID=Australia/West:20250315T113000
 DTSTAMP:20250126T101145Z
 DTSTART;TZID=Australia/West:20250315T091500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs Claremont - Colts Preseason Round 2
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated Claremont/n12.13 (85) to 6.4 (40)
 UID:408a9c31-34ac-4ceb-a8a7-0eae2482f7a3
 END:VEVENT
 BEGIN:VEVENT
@@ -29,9 +30,10 @@ DTEND;TZID=Australia/West:20250322T103000
 DTSTAMP:20250126T101224Z
 DTSTART;TZID=Australia/West:20250322T091500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs Perth - Colts Preseason Round 3
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated by Perth/n10.8 (68) to 12.6 (78)
 UID:e4ff5654-fdcc-40af-b91c-3e77fd2576de
 END:VEVENT
 BEGIN:VEVENT
