@@ -51,10 +51,11 @@ BEGIN:VEVENT
 DTEND;TZID=Australia/West:20250329T184500
 DTSTAMP:20250126T135701Z
 DTSTART;TZID=Australia/West:20250329T170000
-LOCATION:East Fremantle Oval, East Fremantle
-SEQUENCE:0
+LOCATION:The Good Grocer Park, East Fremantle
+SEQUENCE:1
 SUMMARY:East Fremantle vs Swan Districts - Futures Round 4
 TRANSP:OPAQUE
+DESCRIPTION:East Fremantle defeated Swan Districts/n25.11 (161) to 01.06 (12)
 UID:0cc6e2cd-fbf1-45f7-96f3-b0af3732030e
 END:VEVENT
 BEGIN:VEVENT
