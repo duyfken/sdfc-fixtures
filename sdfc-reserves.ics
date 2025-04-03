@@ -120,8 +120,8 @@ BEGIN:VEVENT
 DTEND;TZID=Australia/West:20250621T141500
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250621T114500
-LOCATION:East Fremantle Oval, East Fremantle
-SEQUENCE:0
+LOCATION:The Good Grocer Park, East Fremantle
+SEQUENCE:1
 SUMMARY:East Fremantle vs Swan Districts - Reserves Round 11
 TRANSP:OPAQUE
 UID:2a45c740-eb4a-4205-aaf8-efc84408e07e
