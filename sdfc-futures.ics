@@ -19,10 +19,10 @@ DTEND;TZID=Australia/West:20250309T124500
 DTSTAMP:20250126T135627Z
 DTSTART;TZID=Australia/West:20250309T110000
 LOCATION:Hands Oval, South Bunbury
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:South West Talent Academy vs Swan Districts - Futures Round 1
 TRANSP:OPAQUE
-DESCRIPTION:South West Talent Academy defeated Swan Districts/n10.15 (75) to 5.12 (42)
+DESCRIPTION:South West Talent Academy defeated Swan Districts\n10-15-75 to 05-12-42
 UID:44f45a0c-37ff-4454-90e9-fb4bf789a513
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ DTEND;TZID=Australia/West:20250316T104500
 DTSTAMP:20250126T135636Z
 DTSTART;TZID=Australia/West:20250316T090000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - Futures Round 2
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated by Claremont/n8.14 (62) to 10.9 (69)
+DESCRIPTION:Swan Districts defeated by Claremont\n08-14-62 to 10-09-69
 UID:769b4169-8910-4e4d-b6f5-5798e7c637d2
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +41,10 @@ DTEND;TZID=Australia/West:20250323T104500
 DTSTAMP:20250126T135644Z
 DTSTART;TZID=Australia/West:20250323T090000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Perth - Futures Round 3
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated by Perth/n9.8 (62) to 13.11 (89)
+DESCRIPTION:Swan Districts defeated by Perth/n09-08-62 to 13-11-89
 UID:ea9f44c3-4289-420d-a0b8-7133296ed316
 END:VEVENT
 BEGIN:VEVENT
@@ -52,10 +52,10 @@ DTEND;TZID=Australia/West:20250329T184500
 DTSTAMP:20250126T135701Z
 DTSTART;TZID=Australia/West:20250329T170000
 LOCATION:The Good Grocer Park, East Fremantle
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:East Fremantle vs Swan Districts - Futures Round 4
 TRANSP:OPAQUE
-DESCRIPTION:East Fremantle defeated Swan Districts/n25.11 (161) to 01.06 (12)
+DESCRIPTION:East Fremantle defeated Swan Districts/n25-11-161 to 01-06-12
 UID:0cc6e2cd-fbf1-45f7-96f3-b0af3732030e
 END:VEVENT
 BEGIN:VEVENT
@@ -63,19 +63,21 @@ DTEND;TZID=Australia/West:20250406T114500
 DTSTAMP:20250126T135706Z
 DTSTART;TZID=Australia/West:20250406T100000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs West Perth - Futures Round 5
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated West Perth/n11-09-75 to 10-05-65
 UID:8a67d6c3-0acb-4b80-a8f8-7d5c1cb94603
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=Australia/West:20250412T132500
+DTEND;TZID=Australia/West:20250412T104500
 DTSTAMP:20250126T135712Z
-DTSTART;TZID=Australia/West:20250412T114000
+DTSTART;TZID=Australia/West:20250412T090000
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:East Perth vs Swan Districts - Futures Round 6
 TRANSP:OPAQUE
+DESCRIPTION:East Perth defeated by Swan Districts/n02-08-20 to 13-11-89
 UID:9cfae3c4-a01b-4e5e-a3c0-d36ef7e1a17e
 END:VEVENT
 BEGIN:VEVENT
