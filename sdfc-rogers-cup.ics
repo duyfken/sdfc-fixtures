@@ -19,10 +19,10 @@ DTEND;TZID=Australia/West:20250316T125000
 DTSTAMP:20250126T132800Z
 DTSTART;TZID=Australia/West:20250316T110500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - Rogers Cup Preseason Round 2
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated by Claremont/n04-04-28 to 06-12-48
+DESCRIPTION:Swan Districts defeated by Claremont\n04-04-28 to 06-12-48
 UID:58c56f18-6c36-466b-b150-c8181a7109c6
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ DTEND;TZID=Australia/West:20250323T124500
 DTSTAMP:20250126T135850Z
 DTSTART;TZID=Australia/West:20250323T110000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Perth - Rogers Cup Preseason Round 3
 TRANSP:OPAQUE
-DESCRIPTION:Perth defeated by Swan Districts/n03-04-22 to 02-12-24
+DESCRIPTION:Perth defeated by Swan Districts\n03-04-22 to 02-12-24
 UID:2cd7acb3-dae6-4447-8de3-c4ac7594360f
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +41,10 @@ DTEND;TZID=Australia/West:20250329T174500
 DTSTAMP:20241222T073811Z
 DTSTART;TZID=Australia/West:20250329T160000
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:East Perth vs Swan Districts - Rogers Cup Round 1
 TRANSP:OPAQUE
-DESCRIPTION:East Perth defeated by Swan Districts/n06-04-40 to 08-06-54
+DESCRIPTION:East Perth defeated by Swan Districts\n06-04-40 to 08-06-54
 UID:c73db0cd-132f-4159-af47-2c9ec99be037
 END:VEVENT
 BEGIN:VEVENT
@@ -52,9 +52,10 @@ DTEND;TZID=Australia/West:20250412T135000
 DTSTAMP:20241222T074044Z
 DTSTART;TZID=Australia/West:20250412T120500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs Subiaco - Rogers Cup Round 3
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated by Subiaco\n04-09-33 to 06-00-36
 UID:d4aa1858-6a10-4753-8b35-941286b1c3d3
 END:VEVENT
 BEGIN:VEVENT
