@@ -19,10 +19,10 @@ DTEND;TZID=Australia/West:20250316T150000
 DTSTAMP:20250126T101611Z
 DTSTART;TZID=Australia/West:20250316T131500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - WAFLW Preseason Round 2
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated Claremont/n06-03-39 to 05-08-38
+DESCRIPTION:Swan Districts defeated Claremont\n06-03-39 to 05-08-38
 UID:01497ab8-cced-47be-bc5d-fb6e56ffdbf0
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ DTEND;TZID=Australia/West:20250322T194500
 DTSTAMP:20250126T101427Z
 DTSTART;TZID=Australia/West:20250322T180000
 LOCATION:Mineral Resources Park, Lathlain
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Perth vs Swan Districts - WAFLW Preseason Round 3
 TRANSP:OPAQUE
-DESCRIPTION:Perth defeated by Swan Districts/n02-02-14 to 16-16-112
+DESCRIPTION:Perth defeated by Swan Districts\n02-02-14 to 16-16-112
 UID:6871f6ee-c6ec-4e6f-87ab-e5d80a06a91d
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +41,10 @@ DTEND;TZID=Australia/West:20250329T155000
 DTSTAMP:20241222T073811Z
 DTSTART;TZID=Australia/West:20250329T140500
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:East Perth vs Swan Districts - WAFLW Round 1
 TRANSP:OPAQUE
-DESCRIPTION:East Perth defeated by Swan Districts/n02-06-18 to 07-06-48
+DESCRIPTION:East Perth defeated by Swan Districts\n02-06-18 to 07-06-48
 UID:ceaed4f4-ca09-4902-94b0-42c8b437b78d
 END:VEVENT
 BEGIN:VEVENT
@@ -52,9 +52,10 @@ DTEND;TZID=Australia/West:20250412T155500
 DTSTAMP:20241222T074044Z
 DTSTART;TZID=Australia/West:20250412T141000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Subiaco - WAFLW Round 3
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated by Subiaco\n01-07-13 to 05-07-37
 DESCRIPTION:TV Broadcast: Streamer.com.au
 UID:356d9b67-3510-41e7-8993-15468af150a6
 END:VEVENT
