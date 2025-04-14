@@ -19,10 +19,10 @@ DTEND;TZID=Australia/West:20250315T173000
 DTSTAMP:20250126T095620Z
 DTSTART;TZID=Australia/West:20250315T143000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - WAFL Preseason Round 2
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated by Claremont/n08-11-59 to 11-10-76
+DESCRIPTION:Swan Districts defeated by Claremont\n08-11-59 to 11-10-76
 UID:a85085e3-1292-476c-ab0c-eeefa9755179
 END:VEVENT
 BEGIN:VEVENT
@@ -30,10 +30,10 @@ DTEND;TZID=Australia/West:20250322T173000
 DTSTAMP:20250126T095707Z
 DTSTART;TZID=Australia/West:20250322T143000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Perth - WAFL Preseason Round 3
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated Perth/n09-15-69 to 09-11-65
+DESCRIPTION:Swan Districts defeated Perth\n09-15-69 to 09-11-65
 UID:f604d708-ef11-4baf-8204-7c5ba52da071
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +41,10 @@ DTEND;TZID=Australia/West:20250329T123000
 DTSTAMP:20250126T095815Z
 DTSTART;TZID=Australia/West:20250329T093000
 LOCATION:Mineral Resources Park, Lathlain
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:West Coast vs Swan Districts - WAFL Preseason Round 4
 TRANSP:OPAQUE
-DESCRIPTION:West Coast defeated Swan Districts/n16-12-108 to 15-06-96
+DESCRIPTION:West Coast defeated Swan Districts\n16-12-108 to 15-06-96
 UID:4b16458d-9706-4b47-8751-06252e240d53
 END:VEVENT
 BEGIN:VEVENT
@@ -52,10 +52,10 @@ DTEND;TZID=Australia/West:20250405T173000
 DTSTAMP:20241222T031124Z
 DTSTART;TZID=Australia/West:20250405T143000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs West Perth - WAFL Round 1
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus/nRadio Broadcast: SportFM 91.3 & SEN
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3 & SEN\nSwan Districts defeated by West Perth\n08-07-55 to 16-07-103
 UID:2c714e63-05c3-45bd-b21d-73d020b10115
 END:VEVENT
 BEGIN:VEVENT
@@ -63,10 +63,10 @@ DTEND;TZID=Australia/West:20250412T221000
 DTSTAMP:20241222T031124Z
 DTSTART;TZID=Australia/West:20250412T191000
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:East Perth vs Swan Districts - WAFL Round 2
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus
+DESCRIPTION:TV Broadcast: 7Plus\nEast Perth defeated Swan Districts\n15-07-97 to 06-06-42
 UID:cffeeadf-7dcd-4624-ad18-328a00b63a2c
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +88,7 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:1
 SUMMARY:Swan Districts vs Peel Thunder - WAFL Round 4
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SEN
 UID:01265e98-25e0-4840-8037-d325c5f3d1f2
 END:VEVENT
 BEGIN:VEVENT
