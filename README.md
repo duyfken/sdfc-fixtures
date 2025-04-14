@@ -34,7 +34,7 @@ TRANSP:OPAQUE
 UID:2c714e63-05c3-45bd-b21d-73d020b10115
 END:VEVENT
 ```
-All events must have these properties/lines as a minimum, though others may be added if needed (such as `DESCRIPTION:First line/nSecond line`,  to add a detailed, multi-line description, such as broadcast information or results, where the `/n` denotes a line break)
+All events must have these properties/lines as a minimum, though others may be added if needed (such as `DESCRIPTION:First line\nSecond line`,  to add a detailed, multi-line description, such as broadcast information or results, where the `\n` denotes a line break)
 
 ### Outline of the Required Event Properties
 The specifications for each property will be mentioned here, as it's the raw files that are visible in this repo, and what will be contributed using Git. If you use a iCalendar editor to create or edit events, it is the contributors responsibility to confirm their contributions conform to the required specifications, as not all Calendar apps create events that conform to the iCalendar specifications all the time (we're looking at you Google and Microsoft :wink:) Properties can be mentioned in any order, the order does not matter (other than 1. exception), simply that they exist to provide the necessary information.
