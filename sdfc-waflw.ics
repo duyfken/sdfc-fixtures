@@ -64,10 +64,10 @@ DTEND;TZID=Australia/West:20250419T135000
 DTSTAMP:20241222T074053Z
 DTSTART;TZID=Australia/West:20250419T110500
 LOCATION:Lane Group Stadium, Mandurah
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Peel Thunder vs Swan Districts - WAFLW Round 4
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nPeel Thunder defeated by Swan Districts\n04-06-30 to 05-07-37
 UID:019c1066-ff88-4253-9164-c4aa4a5b5706
 END:VEVENT
 BEGIN:VEVENT
