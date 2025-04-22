@@ -85,9 +85,10 @@ DTEND;TZID=Australia/West:20250416T154500
 DTSTAMP:20250126T135722Z
 DTSTART;TZID=Australia/West:20250416T140000
 LOCATION:Fremantle Community Bank Oval, Fremantle
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:South Fremantle vs Swan Districts - Futures Round 7
 TRANSP:OPAQUE
+DESCRIPTION:South Fremantle defeated Swan Districts\n18-11-119 to 02-07-19
 UID:55b33eab-f0bc-4cbb-8ddc-e58fb184d9c5
 END:VEVENT
 END:VCALENDAR
