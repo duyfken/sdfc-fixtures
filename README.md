@@ -20,6 +20,7 @@ Reserves Fixtures = `sdfc-reserves.ics`
 Colts Fixtures = `sdfc-colts.ics`  
 WAFLW Fixtures = `sdfc-waflw.ics`  
 Rogers Cup Fixtures = `sdfc-rogers-cup.ics`
+Futures Fixtures = `sdfc-futures.ics`
 
 ### Example event (Round 1 League fixture)
 ```
