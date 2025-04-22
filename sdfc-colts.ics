@@ -63,10 +63,10 @@ DTEND;TZID=Australia/West:20250419T113000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250419T091500
 LOCATION:Fremantle Community Bank Oval, Fremantle
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:South Fremantle vs Swan Districts - Colts Round 3
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSouth Fremantle defeated Swan Districts\n17-07-109 to 03-08-26
 UID:e4786b7a-b7d9-47d4-86e7-644e0227924f
 END:VEVENT
 BEGIN:VEVENT
