@@ -75,10 +75,10 @@ DTEND;TZID=Australia/West:20250427T135500
 DTSTAMP:20241222T074136Z
 DTSTART;TZID=Australia/West:20250427T121000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs West Perth - WAFLW Round 5
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated West Perth\n06-06-42 to 05-07-37
 UID:37448d18-c966-486e-bfe0-93f7b3ae41b7
 END:VEVENT
 BEGIN:VEVENT
