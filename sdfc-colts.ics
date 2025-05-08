@@ -85,10 +85,10 @@ DTEND;TZID=Australia/West:20250503T114000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250503T092500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs East Fremantle - Colts Round 5
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated by East Fremantle\n09-04-58 to 09-06-60
 UID:a290c53e-708a-49a8-b512-e663ca52aec0
 END:VEVENT
 BEGIN:VEVENT
