@@ -96,10 +96,10 @@ DTEND;TZID=Australia/West:20250503T174000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250503T144000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs East Fremantle - WAFL Round 5
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Mate & 7Plus
+DESCRIPTION:TV Broadcast: 7Mate & 7Plus\nSwan Districts defeated by East Fremantle\n08-09-57 to 15-12-102
 UID:c1d81654-cdfb-44bb-a23c-57be7d2eeb62
 END:VEVENT
 BEGIN:VEVENT
