@@ -96,10 +96,10 @@ DTEND;TZID=Australia/West:20250510T161000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250510T135500
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Subiaco vs Swan Districts - Colts Round 6
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSubiaco defeated Swan Districts\n11-12-78 to 09-15-69
 UID:e3b0f9a2-161a-460b-8efb-996057f3ab02
 END:VEVENT
 BEGIN:VEVENT
