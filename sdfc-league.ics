@@ -107,10 +107,10 @@ DTEND;TZID=Australia/West:20250510T221000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250510T191000
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Subiaco vs Swan Districts - WAFL Round 6
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Mate & 7Plus
+DESCRIPTION:TV Broadcast: 7Mate & 7Plus\nSubiaco defeated by Swan Districts\n09-04-58 to 20-13-133
 UID:de8734ad-7b2e-4f66-b6e2-42ce5f7b30c7
 END:VEVENT
 BEGIN:VEVENT
