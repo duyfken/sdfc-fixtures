@@ -86,10 +86,10 @@ DTEND;TZID=Australia/West:20250511T135500
 DTSTAMP:20241222T074344Z
 DTSTART;TZID=Australia/West:20250511T121000
 LOCATION:The Good Grocer Park, East Fremantle
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:East Fremantle vs Swan Districts - WAFLW Round 6
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nEast Fremantle defeated by Swan Districts\n05-02-32 to 10-04-64
 UID:ee1c2dfa-3299-4e3b-88e4-c4b48a6abaf2
 END:VEVENT
 BEGIN:VEVENT
