@@ -118,10 +118,10 @@ DTEND;TZID=Australia/West:20250524T173000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250524T143000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1 
+SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - WAFL Round 7
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3\nSwan Districts defeated by Claremont\n04-10-34 to 11-10-76
 UID:b0dba5fa-fa59-429c-830f-bae2514fe6b2
 END:VEVENT
 BEGIN:VEVENT
@@ -129,10 +129,10 @@ DTEND;TZID=Australia/West:20250531T173000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250531T143000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs West Coast - WAFL Round 8
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SEN
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SEN\nSwan Districts defeated West Coast\n11-10-76 to 07-07-49
 UID:dcf282d3-8516-4fa7-a2bf-131635f93c04
 END:VEVENT
 BEGIN:VEVENT
