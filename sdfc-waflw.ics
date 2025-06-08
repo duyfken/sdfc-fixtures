@@ -130,10 +130,10 @@ DTEND;TZID=Australia/West:20250607T125000
 DTSTAMP:20241222T075119Z
 DTSTART;TZID=Australia/West:20250607T110500
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Subiaco vs Swan Districts - WAFLW Round 10
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSubiaco defeated Swan Districts\n05-10-40 to 03-01-19
 UID:736045b9-c9d1-47a3-8130-f27608359a4b
 END:VEVENT
 BEGIN:VEVENT
