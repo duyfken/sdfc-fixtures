@@ -140,10 +140,10 @@ DTEND;TZID=Australia/West:20250628T113000
 DTSTAMP:20241222T031124Z
 DTSTART;TZID=Australia/West:20250628T091500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs East Perth - Colts Round 12
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated East Perth\n13-18-96 to 04-04-28
 UID:00d88bd9-cb1e-491b-8195-d622acaa9509
 END:VEVENT
 BEGIN:VEVENT
@@ -151,10 +151,10 @@ DTEND;TZID=Australia/West:20250705T201500
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250705T180000
 LOCATION:HIF Health Insurance Oval, Joondalup
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:West Perth vs Swan Districts - Colts Round 13
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nWest Perth defeated by Swan Districts\n07-08-50 to 10-08-68
 UID:9d2e040c-a1e5-40db-aa3b-1929e735aff7
 END:VEVENT
 BEGIN:VEVENT
