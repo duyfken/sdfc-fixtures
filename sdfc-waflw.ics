@@ -174,10 +174,10 @@ DTEND;TZID=Australia/West:20250713T155500
 DTSTAMP:20241222T080238Z
 DTSTART;TZID=Australia/West:20250713T141000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs South Fremantle - WAFLW Round 15
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: Streamer.com.au\nRadio Broadcast: SportFM 91.3\nSwan Districts defeated South Fremantle\n05-04-34 to 04-04-28
 UID:4629332f-ef02-433b-a2cd-b56fac7fb040
 END:VEVENT
 BEGIN:VEVENT
