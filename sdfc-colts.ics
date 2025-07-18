@@ -162,10 +162,10 @@ DTEND;TZID=Australia/West:20250712T113000
 DTSTAMP:20241222T031124Z
 DTSTART;TZID=Australia/West:20250712T091500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs South Fremantle - Colts Round 14
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated by South Fremantle\n06-06-42 to 10-08-68
 UID:f91a8eea-ee2b-42a1-b8a5-945aa0268eaf
 END:VEVENT
 BEGIN:VEVENT
