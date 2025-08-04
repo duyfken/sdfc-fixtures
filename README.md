@@ -1,11 +1,11 @@
 <div align="center">
-    [<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/sdfc-fixtures) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/sdfc-fixtures)
+    <a href="https://codeberg.org/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white"></a> <a href="https://github.com/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
     <br>
     <img src="https://swandistrictsfc.com.au/wp-content/uploads/2025/03/logo-swan-hd.png" alt="" width="300" height="300">
     <h1>SDFC Fixtures</h1>
 </div>
 <br>
-These calendars are based on our [official WAFL fixtures](https://wafl.com.au/fixtures-and-results), but are provided openly and collaboratively by members of our community, for ease of use (in your own calendar app). All files/code for the calendars and this website can be viewed and contributed to here on Codeberg/Github.
+These calendars are based on our <a href="https://wafl.com.au/fixtures-and-results">official WAFL fixtures</a>, but are provided openly and collaboratively by members of our community, for ease of use (in your own calendar app). All files/code for the calendars and this website can be viewed and contributed to here on Codeberg/Github.
 
 The website and calendars from this repository are automatically deployed at [fixtures.blackducks.au](https://fixtures.blackducks.au/) using [Cloudflare Pages](https://pages.cloudflare.com/) for the easy access of our SDFC community and members. The SDFC logo is visible on this Codeberg/GitHub page and website (directly from the club official website) solely to accurately represent the club and provide basic numbers on how many people use these community built calendars to the club.
 
