@@ -1,16 +1,18 @@
 <div align="center">
+    [<img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white">](https://codeberg.org/duyfken/sdfc-fixtures) [<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">](https://github.com/duyfken/sdfc-fixtures)
+    <br>
     <img src="https://swandistrictsfc.com.au/wp-content/uploads/2025/03/logo-swan-hd.png" alt="" width="300" height="300">
     <h1>SDFC Fixtures</h1>
 </div>
+<br>
+These calendars are based on our [official WAFL fixtures](https://wafl.com.au/fixtures-and-results), but are provided openly and collaboratively by members of our community, for ease of use (in your own calendar app). All files/code for the calendars and this website can be viewed and contributed to here on Codeberg/Github.
 
-These calendars are based on our [official WAFL fixtures](https://wafl.com.au/fixtures-and-results), but are provided openly and collaboratively by members of our community, for ease of use (in your own calendar app). All files/code for the calendars and this website can be viewed and contributed to here on Github.
-
-The website and calendars from this repository are automatically deployed at [fixtures.blackducks.au](https://fixtures.blackducks.au/) using [Cloudflare Pages](https://pages.cloudflare.com/) for the easy access of our SDFC community and members. The SDFC logo is visible on this GitHub page and website (directly from the club official website) solely to accurately represent the club and provide basic numbers on how many people use these community built calendars to the club.
+The website and calendars from this repository are automatically deployed at [fixtures.blackducks.au](https://fixtures.blackducks.au/) using [Cloudflare Pages](https://pages.cloudflare.com/) for the easy access of our SDFC community and members. The SDFC logo is visible on this Codeberg/GitHub page and website (directly from the club official website) solely to accurately represent the club and provide basic numbers on how many people use these community built calendars to the club.
 
 ## Contributing
 
 > [!IMPORTANT]
-> Want to contribute? [Fork the repo, make your edits (after reading below) and lodge a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). After successfully contributing a few pull requests, @duyfken will add you as a collaborator to more easily add your future contributions.
+> Want to contribute? Fork the repo, make your edits (after reading below) and lodge a pull request on [Codeberg](https://docs.codeberg.org/collaborating/pull-requests-and-git-flow/) or [GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). After successfully contributing a few pull requests, @duyfken will add you as a collaborator to more easily add your future contributions.
 
 Keep in mind, the calendars provided here are in the [iCalendar](https://en.wikipedia.org/wiki/ICalendar) format (*.ics files). As a result, for these calendars to work correctly when people subscribe to them, any updates must adhere to the specification standards of the iCalendar format (namely [RFC 5545](https://datatracker.ietf.org/doc/html/rfc5545) and its updates). Regardless of whether you use an iCalendar editor or manually create/edit events on the calendar, they **_must_** adhere to these standards. The following are some guidelines that will help us to make sure the calendars adhere to the required specification standards and will keep working correctly for all subscribers.
 
