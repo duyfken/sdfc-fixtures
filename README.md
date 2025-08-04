@@ -1,6 +1,4 @@
 <div align="center">
-    <a href="https://codeberg.org/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white"></a> <a href="https://github.com/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-    <br>
     <img src="https://swandistrictsfc.com.au/wp-content/uploads/2025/03/logo-swan-hd.png" alt="" width="300" height="300">
     <h1>SDFC Fixtures</h1>
 </div>
@@ -10,7 +8,7 @@ These calendars are based on our <a href="https://wafl.com.au/fixtures-and-resul
 The website and calendars from this repository are automatically deployed at [fixtures.blackducks.au](https://fixtures.blackducks.au/) using [Cloudflare Pages](https://pages.cloudflare.com/) for the easy access of our SDFC community and members. The SDFC logo is visible on this Codeberg/GitHub page and website (directly from the club official website) solely to accurately represent the club and provide basic numbers on how many people use these community built calendars to the club.
 
 ## Contributing
-
+<a href="https://codeberg.org/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=Codeberg&logoColor=white"></a> <a href="https://github.com/duyfken/sdfc-fixtures"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
 > [!IMPORTANT]
 > Want to contribute? Fork the repo, make your edits (after reading below) and lodge a pull request on [Codeberg](https://docs.codeberg.org/collaborating/pull-requests-and-git-flow/) or [GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). After successfully contributing a few pull requests, @duyfken will add you as a collaborator to more easily add your future contributions.
 
