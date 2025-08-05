@@ -173,10 +173,10 @@ DTEND;TZID=Australia/West:20250719T113000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250719T085500
 LOCATION:Mineral Resources Park, Lathlain
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Perth vs Swan Districts - Colts Round 15
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nPerth defeated by Swan Districts\n08-14-62 to 10-09-69
 UID:1cc7812a-b5b4-4258-b7fa-52d144da517e
 END:VEVENT
 BEGIN:VEVENT
@@ -184,10 +184,10 @@ DTEND;TZID=Australia/West:20250802T113000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250802T091500
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Subiaco - Colts Round 17
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Subiaco\n05-02-32 to 03-11-29
 UID:d471a61c-8f9a-4d0d-aa03-8c6ca3f23d5c
 END:VEVENT
 BEGIN:VEVENT
