@@ -185,10 +185,10 @@ DTEND;TZID=Australia/West:20250719T155500
 DTSTAMP:20241222T080326Z
 DTSTART;TZID=Australia/West:20250719T141000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs Peel Thunder - WAFLW Round 16
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Peel Thunder\n12-10-82 to 02-02-14
 UID:a328be27-ba07-456e-a980-96187ab57f33
 END:VEVENT
 BEGIN:VEVENT
@@ -196,10 +196,10 @@ DTEND;TZID=Australia/West:20250726T135500
 DTSTAMP:20241222T080411Z
 DTSTART;TZID=Australia/West:20250726T121000
 LOCATION:Mineral Resources Park, Lathlain
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Perth vs Swan Districts - WAFLW Round 17
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nPerth defeated by Swan Districts\n03-06-24 to 06-05-41
 UID:1d411d8e-5a0e-4599-94b8-2b168eee2698
 END:VEVENT
 BEGIN:VEVENT
@@ -207,10 +207,21 @@ DTEND;TZID=Australia/West:20250803T155500
 DTSTAMP:20241222T080450Z
 DTSTART;TZID=Australia/West:20250803T141000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Swan Districts vs East Fremantle - WAFLW Round 18
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated East Fremantle\n02-03-15 to 01-05-11
 UID:e508eee6-4d47-480c-a94e-b1391b6c7df1
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Australia/West:20250810T151500
+DTSTAMP:20250805T101905Z
+DTSTART;TZID=Australia/West:20250810T133000
+LOCATION:Steel Blue Oval, Bassendean
+SEQUENCE:0
+SUMMARY:Swan Districts vs East Fremantle - WAFLW Finals Week 1
+TRANSP:OPAQUE
+DESCRIPTION:TV Broadcast: Streamer.com.au\nRadio Broadcast: SportFM 91.3
+UID:91244ab3-0888-4ac3-aee2-335fc01da0a2
 END:VEVENT
 END:VCALENDAR
