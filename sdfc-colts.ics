@@ -195,8 +195,8 @@ DTEND;TZID=Australia/West:20250809T113000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250809T091500
 LOCATION:Revo Fitness Stadium, Claremont
-SEQUENCE:1
-DESCRIPTION:TV Broadcast: Streamer.com.au
+SEQUENCE:2
+DESCRIPTION:TV Broadcast: Streamer.com.au\nClaremont defeated Swan Districts\n06-13-49 to 06-04-40
 SUMMARY:Claremont vs Swan Districts - Colts Round 18
 TRANSP:OPAQUE
 UID:1b2027a1-f4b2-46e7-be4d-834d52a26d2b
