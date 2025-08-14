@@ -222,4 +222,14 @@ SUMMARY:West Perth vs Swan Districts - Rogers Cup Finals Week 1
 TRANSP:OPAQUE
 UID:32c04ff3-8520-430d-a32f-9db181dbd9f2
 END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Australia/West:20250817T120500
+DTSTAMP:20250814T093736Z
+DTSTART;TZID=Australia/West:20250817T102000
+LOCATION:Sullivan Logistics Stadium, Leederville
+SEQUENCE:0
+SUMMARY:Swan Districts vs Claremont - Rogers Cup Preliminary Final
+TRANSP:OPAQUE
+UID:3dc314c6-336f-4893-81c4-7d2a2f31dfea
+END:VEVENT
 END:VCALENDAR
