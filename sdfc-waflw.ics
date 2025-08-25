@@ -218,10 +218,10 @@ DTEND;TZID=Australia/West:20250810T151500
 DTSTAMP:20250805T101905Z
 DTSTART;TZID=Australia/West:20250810T133000
 LOCATION:Steel Blue Oval, Bassendean
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs East Fremantle - WAFLW Finals Week 1
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: Streamer.com.au\nRadio Broadcast: SportFM 91.3\nSwan Districts defeated East Fremantle\n02-04-16 to 02-03-15
 UID:91244ab3-0888-4ac3-aee2-335fc01da0a2
 END:VEVENT
 BEGIN:VEVENT
@@ -229,10 +229,10 @@ DTEND;TZID=Australia/West:20250817T141500
 DTSTAMP:20250814T092955Z
 DTSTART;TZID=Australia/West:20250817T123000
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Subiaco vs Swan Districts - WAFLW Preliminary Final
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSubiaco defeated by Swan Districts\n06-02-38 to 06-04-40
 UID:6896319c-a27b-41d0-b95a-707b12c629cf
 END:VEVENT
 BEGIN:VEVENT
@@ -240,10 +240,10 @@ DTEND;TZID=Australia/West:20250817T155000
 DTSTAMP:20250818T025745Z
 DTSTART;TZID=Australia/West:20250824T140500
 LOCATION:Mineral Resources Park, Lathlain
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Claremont vs Swan Districts - WAFLW Grand Final
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3\nClaremont defeated Swan Districts\n03-06-24 to 03-05-23
 UID:21976b85-0f47-4a55-8511-cbc3851049b5
 END:VEVENT
 END:VCALENDAR
