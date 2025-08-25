@@ -206,10 +206,21 @@ DTEND;TZID=Australia/West:20250823T113000
 DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250823T091500
 LOCATION:Lane Group Stadium, Mandurah
-SEQUENCE:1
-DESCRIPTION:TV Broadcast: Streamer.com.au
+SEQUENCE:2
+DESCRIPTION:TV Broadcast: Streamer.com.au\nPeel Thunder defeated by Swan Districts\n07-09-51 to 12-15-87
 SUMMARY:Peel Thunder vs Swan Districts - Colts Round 20
 TRANSP:OPAQUE
 UID:a29ab342-8bc3-4ccb-b31c-ae95921e0dba
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Australia/West:20250831T110500
+DTSTAMP:20250825T095410Z
+DTSTART;TZID=Australia/West:20250831T085000
+LOCATION:The Good Grocer Park, East Fremantle
+SEQUENCE:0
+SUMMARY:West Perth vs Swan Districts - Colts Finals Week 1
+TRANSP:OPAQUE
+DESCRIPTION:TV Broadcast: Streamer.com.au
+UID:0458938a-e103-49d0-b75f-33698ebf25f8
 END:VEVENT
 END:VCALENDAR
