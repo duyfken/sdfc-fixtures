@@ -217,10 +217,21 @@ DTEND;TZID=Australia/West:20250831T135500
 DTSTAMP:20250825T095050Z
 DTSTART;TZID=Australia/West:20250831T112500
 LOCATION:The Good Grocer Park, East Fremantle
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:South Fremantle vs Swan Districts - Reserves Finals Week 1
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSouth Fremantle defeated by Swan Districts\n08-07-55 to 10-08-68
 UID:f187d899-502e-42b9-9ef1-5539e7945ca2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Australia/West:20250907T135500
+DTSTAMP:20250902T095320Z
+DTSTART;TZID=Australia/West:20250907T112500
+LOCATION:Revo Fitness Stadium, Claremont
+SEQUENCE:0
+SUMMARY:Claremont vs Swan Districts - Reserves Finals Week 2
+TRANSP:OPAQUE
+DESCRIPTION:TV Broadcast: Streamer.com.au
+UID:50b7c0c7-7912-4555-884e-ec79a8fd878c
 END:VEVENT
 END:VCALENDAR
