@@ -228,10 +228,21 @@ DTEND;TZID=Australia/West:20250907T135500
 DTSTAMP:20250902T095320Z
 DTSTART;TZID=Australia/West:20250907T112500
 LOCATION:Revo Fitness Stadium, Claremont
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Claremont vs Swan Districts - Reserves Finals Week 2
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nClaremont defeated Swan Districts\n15-07-97 to 07-05-47
 UID:50b7c0c7-7912-4555-884e-ec79a8fd878c
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=Australia/West:20250914T135500
+DTSTAMP:20250902T093750Z
+DTSTART;TZID=Australia/West:20250914T112500
+LOCATION:Sullivan Logistics Stadium, Leederville
+SEQUENCE:0
+SUMMARY:Swan Districts vs East Perth - Reserves Preliminary Final
+TRANSP:OPAQUE
+DESCRIPTION:TV Broadcast: Streamer.com.au
+UID:582adad3-4d41-410f-b3bc-3924afcd65ee
 END:VEVENT
 END:VCALENDAR
