@@ -239,10 +239,10 @@ DTEND;TZID=Australia/West:20250914T135500
 DTSTAMP:20250902T093750Z
 DTSTART;TZID=Australia/West:20250914T112500
 LOCATION:Sullivan Logistics Stadium, Leederville
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Swan Districts vs East Perth - Reserves Preliminary Final
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au
+DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated by East Perth\n09-08-62 to 09-10-64
 UID:582adad3-4d41-410f-b3bc-3924afcd65ee
 END:VEVENT
 END:VCALENDAR
