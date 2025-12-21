@@ -40,8 +40,13 @@ All events must have these properties/lines as a minimum, though others may be a
 ### Outline of the Required Event Properties
 The specifications for each property will be mentioned here, as it's the raw files that are visible in this repo, and what will be contributed using Git. If you use a iCalendar editor to create or edit events, it is the contributors responsibility to confirm their contributions conform to the required specifications, as not all Calendar apps create events that conform to the iCalendar specifications all the time (we're looking at you Google and Microsoft :wink:) Properties can be mentioned in any order, the order does not matter (other than 1. exception), simply that they exist to provide the necessary information.
 1. Like all things in life, an event must have a `BEGIN:VEVENT` and an `END:VEVENT`. They must be at the start and end, for obvious reasons.
-2. An event must have both a start and end timezone/time, with the timezone in the [tz database identifier format](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) (`Australia/West` for our UTC+08:00 WA timezone) and the time in the [ISO 8601 format](https://en.wikipedia.org/wiki/ISO_8601) for that timezone (local).
+2. An event must have both a start and end timezone/time, with the timezone in the [tz database identifier format](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) (`Australia/West` for our UTC+08:00 WA timezone) and the time in the [ISO 8601 format](https://en.wikipedia.org/wiki/ISO_8601) for that timezone (local). Showing the start and end of an event can be specified by either a `DTSTART` & `DURATION`, or by specifying a `DTSTART` & `DTEND`, but never both (as then you'd have two properties trying to do the same thing). Specifying duration is easier, as matches are always scheduled for the same length for any football grade.
 ```
+DTSTART;TZID=Australia/West:20250405T143000
+DURATION:PT3H
+
+OR
+
 DTSTART;TZID=Australia/West:20250405T143000
 DTEND;TZID=Australia/West:20250405T173000
 ```
