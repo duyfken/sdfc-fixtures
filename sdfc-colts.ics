@@ -3,12 +3,15 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//SDFC/Colts/Fixtures/EN
+COLOR:orange
 X-APPLE-CALENDAR-COLOR:#E8AE0C
+NAME:Swan Districts Colts Fixtures
 X-WR-CALNAME:Swan Districts Colts Fixtures
 X-WR-TIMEZONE:Australia/West
 BEGIN:VTIMEZONE
 TZID:Australia/West
 BEGIN:STANDARD
+TZNAME:AWST
 DTSTART:19700101T000000
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
@@ -44,7 +47,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs West Perth - Colts Round 1
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated West Perth\n10-08-68 to 12-06-78
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated West Perth\n10-08-68 to 12-06-78
 UID:f0750fd6-8173-4e53-9589-584df44c1bb5
 END:VEVENT
 BEGIN:VEVENT
@@ -66,7 +70,8 @@ LOCATION:Fremantle Community Bank Oval, Fremantle
 SEQUENCE:2
 SUMMARY:South Fremantle vs Swan Districts - Colts Round 3
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSouth Fremantle defeated Swan Districts\n17-07-109 to 03-08-26
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ South Fremantle defeated Swan Districts\n17-07-109 to 03-08-26
 UID:e4786b7a-b7d9-47d4-86e7-644e0227924f
 END:VEVENT
 BEGIN:VEVENT
@@ -77,7 +82,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs Peel Thunder - Colts Round 4
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Peel Thunder\n16-11-107 to 08-06-54
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated Peel Thunder\n16-11-107 to 08-06-54
 UID:327a8258-e85a-4e3a-bafc-514d88364e13
 END:VEVENT
 BEGIN:VEVENT
@@ -88,7 +94,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:3
 SUMMARY:Swan Districts vs East Fremantle - Colts Round 5
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated by East Fremantle\n09-04-58 to 09-06-60
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated by East Fremantle\n09-04-58 to 09-06-60
 UID:a290c53e-708a-49a8-b512-e663ca52aec0
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +106,8 @@ LOCATION:Sullivan Logistics Stadium, Leederville
 SEQUENCE:2
 SUMMARY:Subiaco vs Swan Districts - Colts Round 6
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSubiaco defeated Swan Districts\n11-12-78 to 09-15-69
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Subiaco defeated Swan Districts\n11-12-78 to 09-15-69
 UID:e3b0f9a2-161a-460b-8efb-996057f3ab02
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +118,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs Claremont - Colts Round 7
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Claremont\n08-05-53 to 07-09-51
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated Claremont\n08-05-53 to 07-09-51
 UID:f3bf9f4c-9c7e-4dfe-9c69-4a37ba5c734e
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +130,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:3
 SUMMARY:Swan Districts vs Perth - Colts Round 10
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Perth\n13-06-84 to 12-04-76
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated Perth\n13-06-84 to 12-04-76
 UID:818dcd02-066d-4c16-9782-382acce9683f
 END:VEVENT
 BEGIN:VEVENT
@@ -132,7 +142,8 @@ LOCATION:The Good Grocer Park, East Fremantle
 SEQUENCE:2
 SUMMARY:East Fremantle vs Swan Districts - Colts Round 11
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nEast Fremantle defeated Swan Districts\n13-06-84 to 02-06-18
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ East Fremantle defeated Swan Districts\n13-06-84 to 02-06-18
 UID:3d5ecfe9-29aa-418e-9960-59b72150f0b9
 END:VEVENT
 BEGIN:VEVENT
@@ -143,7 +154,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs East Perth - Colts Round 12
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated East Perth\n13-18-96 to 04-04-28
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated East Perth\n13-18-96 to 04-04-28
 UID:00d88bd9-cb1e-491b-8195-d622acaa9509
 END:VEVENT
 BEGIN:VEVENT
@@ -154,7 +166,8 @@ LOCATION:HIF Health Insurance Oval, Joondalup
 SEQUENCE:3
 SUMMARY:West Perth vs Swan Districts - Colts Round 13
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nWest Perth defeated by Swan Districts\n07-08-50 to 10-08-68
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ West Perth defeated by Swan Districts\n07-08-50 to 10-08-68
 UID:9d2e040c-a1e5-40db-aa3b-1929e735aff7
 END:VEVENT
 BEGIN:VEVENT
@@ -165,7 +178,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs South Fremantle - Colts Round 14
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated by South Fremantle\n06-06-42 to 10-08-68
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated by South Fremantle\n06-06-42 to 10-08-68
 UID:f91a8eea-ee2b-42a1-b8a5-945aa0268eaf
 END:VEVENT
 BEGIN:VEVENT
@@ -176,7 +190,8 @@ LOCATION:Mineral Resources Park, Lathlain
 SEQUENCE:2
 SUMMARY:Perth vs Swan Districts - Colts Round 15
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nPerth defeated by Swan Districts\n08-14-62 to 10-09-69
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Perth defeated by Swan Districts\n08-14-62 to 10-09-69
 UID:1cc7812a-b5b4-4258-b7fa-52d144da517e
 END:VEVENT
 BEGIN:VEVENT
@@ -187,7 +202,8 @@ LOCATION:Steel Blue Oval, Bassendean
 SEQUENCE:2
 SUMMARY:Swan Districts vs Subiaco - Colts Round 17
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nSwan Districts defeated Subiaco\n05-02-32 to 03-11-29
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Swan Districts defeated Subiaco\n05-02-32 to 03-11-29
 UID:d471a61c-8f9a-4d0d-aa03-8c6ca3f23d5c
 END:VEVENT
 BEGIN:VEVENT
@@ -196,7 +212,8 @@ DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250809T091500
 LOCATION:Revo Fitness Stadium, Claremont
 SEQUENCE:2
-DESCRIPTION:TV Broadcast: Streamer.com.au\nClaremont defeated Swan Districts\n06-13-49 to 06-04-40
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Claremont defeated Swan Districts\n06-13-49 to 06-04-40
 SUMMARY:Claremont vs Swan Districts - Colts Round 18
 TRANSP:OPAQUE
 UID:1b2027a1-f4b2-46e7-be4d-834d52a26d2b
@@ -207,7 +224,8 @@ DTSTAMP:20241222T031123Z
 DTSTART;TZID=Australia/West:20250823T091500
 LOCATION:Lane Group Stadium, Mandurah
 SEQUENCE:2
-DESCRIPTION:TV Broadcast: Streamer.com.au\nPeel Thunder defeated by Swan Districts\n07-09-51 to 12-15-87
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ Peel Thunder defeated by Swan Districts\n07-09-51 to 12-15-87
 SUMMARY:Peel Thunder vs Swan Districts - Colts Round 20
 TRANSP:OPAQUE
 UID:a29ab342-8bc3-4ccb-b31c-ae95921e0dba
@@ -220,7 +238,198 @@ LOCATION:The Good Grocer Park, East Fremantle
 SEQUENCE:1
 SUMMARY:West Perth vs Swan Districts - Colts Finals Week 1
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Streamer.com.au\nWest Perth defeated Swan Districts\n11-13-79 to 10-04-64
+DESCRIPTION:TV Broadcast: Streamer.com.au\n
+ West Perth defeated Swan Districts\n11-13-79 to 10-04-64
 UID:0458938a-e103-49d0-b75f-33698ebf25f8
+END:VEVENT
+BEGIN:VEVENT
+UID:6997899c-0daa-4b23-b2b1-0879ec099a19
+SEQUENCE:0
+DTSTAMP:20251225T010814Z
+DTSTART;TZID=Australia/West:20260307T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs Subiaco - Colts Preseason Round 1
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:533d358b-df64-4929-a9f7-18a766eef0b7
+SEQUENCE:0
+DTSTAMP:20251225T010938Z
+DTSTART;TZID=Australia/West:20260314T091500
+DURATION:PT135M
+SUMMARY:East Fremantle vs Swan Districts - Colts Preseason Round 2
+LOCATION:The Good Grocer Park\, East Fremantle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a8bf2f-58e2-41da-993b-8c01f31c1fca
+SEQUENCE:0
+DTSTAMP:20251225T011104Z
+DTSTART;TZID=Australia/West:20260321T084000
+DURATION:PT135M
+SUMMARY:Perth vs Swan Districts - Colts Preseason Round 3
+LOCATION:Mineral Resources Park\, Lathlain
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8799317d-c4f8-4f07-9c75-bf9ae0c31c77
+SEQUENCE:0
+DTSTAMP:20251225T011225Z
+DTSTART;TZID=Australia/West:20260403T171500
+DURATION:PT135M
+SUMMARY:Swan Districts vs South Fremantle - Colts Round 1
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8de99388-dd67-4209-a8bb-0542413fa2ef
+SEQUENCE:0
+DTSTAMP:20251225T011425Z
+DTSTART;TZID=Australia/West:20260411T150000
+DURATION:PT135M
+SUMMARY:East Perth vs Swan Districts - Colts Round 2
+LOCATION:Sullivan Logistics Stadium\, Leederville
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5edd8b91-9b75-43be-9b9d-51ac447f6bd8
+SEQUENCE:0
+DTSTAMP:20251225T011520Z
+DTSTART;TZID=Australia/West:20260418T171500
+DURATION:PT135M
+SUMMARY:Swan Districts vs West Perth - Colts Round 3
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:df6d1ed6-67a7-4163-ab70-74fc302b45fd
+SEQUENCE:0
+DTSTAMP:20251225T011838Z
+DTSTART;TZID=Australia/West:20260502T091500
+DURATION:PT135M
+SUMMARY:Claremont vs Swan Districts - Colts Round 5
+LOCATION:Revo Fitness Stadium\, Claremont
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2af4fe-3759-4020-9152-dd83d525add1
+SEQUENCE:0
+DTSTAMP:20251225T011930Z
+DTSTART;TZID=Australia/West:20260509T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs East Fremantle - Colts Round 6
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9685bf-9b49-4972-adda-518ecdab31cd
+SEQUENCE:0
+DTSTAMP:20251225T012129Z
+DTSTART;TZID=Australia/West:20260523T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs Subiaco - Colts Round 7
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8d0877-9221-4deb-abe0-fb7693437a20
+SEQUENCE:0
+DTSTAMP:20251225T012218Z
+DTSTART;TZID=Australia/West:20260530T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs Perth - Colts Round 8
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e52b1da-fcca-4e19-9992-83b2e8602790
+SEQUENCE:0
+DTSTAMP:20251225T012343Z
+DTSTART;TZID=Australia/West:20260607T091500
+DURATION:PT135M
+SUMMARY:Peel Thunder vs Swan Districts - Colts Round 9
+LOCATION:Lane Group Stadium\, Mandurah
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:680fac05-1a07-4cb6-9dd0-82450e1969dc
+SEQUENCE:0
+DTSTAMP:20251225T012539Z
+DTSTART;TZID=Australia/West:20260627T091500
+DURATION:PT135M
+SUMMARY:Subiaco vs Swan Districts - Colts Round 12
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:34d8a2a9-d17a-41fd-9097-93e4feb0da44
+SEQUENCE:0
+DTSTAMP:20251225T012653Z
+DTSTART;TZID=Australia/West:20260706T180000
+DURATION:PT135M
+SUMMARY:West Perth vs Swan Districts - Colts Round 13
+LOCATION:HIF Health Insurance Oval\, Joondalup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb233a4-b7c7-4fe0-931f-1e0cf5b0c5f2
+SEQUENCE:0
+DTSTAMP:20251225T012916Z
+DTSTART;TZID=Australia/West:20260711T090000
+DURATION:PT135M
+SUMMARY:Swan Districts vs East Perth - Colts Round 14
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38c2c5ad-80c2-4ccc-bc52-f9d10f1b4e4a
+SEQUENCE:0
+DTSTAMP:20251225T013205Z
+DTSTART;TZID=Australia/West:20260718T091500
+DURATION:PT135M
+SUMMARY:South Fremantle vs Swan Districts - Colts Round 15
+LOCATION:Fremantle Community Bank Oval\, Fremantle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f177881f-da70-4d20-90a0-5eacbcd6914d
+SEQUENCE:0
+DTSTAMP:20251225T013305Z
+DTSTART;TZID=Australia/West:20260801T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs Peel Thunder - Colts Round 17
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:34d1d457-1ff8-41fc-828b-b6f217699acf
+SEQUENCE:0
+DTSTAMP:20251225T013351Z
+DTSTART;TZID=Australia/West:20260808T091500
+DURATION:PT135M
+SUMMARY:Swan Districts vs Claremont - Colts Round 18
+LOCATION:Steel Blue Oval\, Bassendean
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12a8b8df-f93f-48ab-b5d8-e0dc5c4f150d
+SEQUENCE:0
+DTSTAMP:20251225T013445Z
+DTSTART;TZID=Australia/West:20260815T091500
+DURATION:PT135M
+SUMMARY:Perth vs Swan Districts - Colts Round 19
+LOCATION:Mineral Resources Park\, Lathlain
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:85fea60f-bc9e-4db5-816a-6c0635d088c9
+SEQUENCE:0
+DTSTAMP:20251225T013554Z
+DTSTART;TZID=Australia/West:20260822T091500
+DURATION:PT135M
+SUMMARY:East Fremantle vs Swan Districts - Colts Round 20
+LOCATION:The Good Grocer Park\, East Fremantle
+TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
