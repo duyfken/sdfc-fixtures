@@ -288,13 +288,14 @@ DESCRIPTION:Perth defeated by Swan Districts\n7.13 (55) to 8.12 (60)
 END:VEVENT
 BEGIN:VEVENT
 UID:282d8d14-18c1-41f2-ae6e-175684f3f245
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251224T051225Z
 DTSTART;TZID=Australia/West:20260403T094500
 DURATION:PT150M
 SUMMARY:Swan Districts vs South Fremantle - Reserves Round 1
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated South Fremantle\n9.12 (66) to 5.15 (45)
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5afdfd-bd32-4e8f-820c-b218cb6586ad
