@@ -158,13 +158,15 @@ DESCRIPTION:Swan Districts defeated South Fremantle/n
 END:VEVENT
 BEGIN:VEVENT
 UID:755e8c77-4124-4b6f-b74a-9bc6a4b5eda7
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251226T084453Z
 DTSTART;TZID=Australia/West:20260411T091000
 DURATION:PT2H
 SUMMARY:East Perth vs Swan Districts - Futures Round 6
 LOCATION:Sullivan Logistics Stadium\, Leederville
 TRANSP:OPAQUE
+DESCRIPTION:East Perth defeated Swan Districts/n
+ 12.13 (85) to 3.6 (24)
 END:VEVENT
 BEGIN:VEVENT
 UID:70cde7f0-4476-4242-9a35-f93711c56f9f
