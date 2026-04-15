@@ -308,19 +308,22 @@ DURATION:PT3H
 SUMMARY:Swan Districts vs South Fremantle - WAFL Round 1
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:Swan Districts defeated by South Fremantle\n9.9 (63) to 16.12 (108) 
+DESCRIPTION:Swan Districts defeated by South Fremantle\n
+ 9.9 (63) to 16.12 (108) 
 DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
 END:VEVENT
 BEGIN:VEVENT
 UID:319dd1fd-3b67-4cda-9aac-7aa849e1e053
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251221T051425Z
 DTSTART;TZID=Australia/West:20260411T141000
 DURATION:PT3H
 SUMMARY:East Perth vs Swan Districts - WAFL Round 2
 LOCATION:Sullivan Logistics Stadium\, Leederville
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus
+DESCRIPTION:TV Broadcast: 7Plus\n
+ East Perth defeated Swan Districts\n
+ 13.12 (90) to 10.10 (70)
 END:VEVENT
 BEGIN:VEVENT
 UID:7571c838-0f7a-47d4-882c-3f2874161cfd
