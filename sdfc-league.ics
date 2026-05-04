@@ -309,7 +309,7 @@ SUMMARY:Swan Districts vs South Fremantle - WAFL Round 1
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
 DESCRIPTION:Swan Districts defeated by South Fremantle\n
- 9.9 (63) to 16.12 (108) 
+ 9.9 (63) to 16.12 (108)
 DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
 END:VEVENT
 BEGIN:VEVENT
@@ -353,14 +353,16 @@ DESCRIPTION:TV Broadcast: 7Plus\n
 END:VEVENT
 BEGIN:VEVENT
 UID:435b0495-fc72-48a3-a95d-2b920637493c
-SEQUENCE:2
+SEQUENCE:3
 DTSTAMP:20251221T051838Z
 DTSTART;TZID=Australia/West:20260502T141000
 DURATION:PT3H
 SUMMARY:Claremont vs Swan Districts - WAFL Round 5
 LOCATION:Revo Fitness Stadium\, Claremont
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: Channel 7 and 7Plus
+DESCRIPTION:TV Broadcast: Channel 7 and 7Plus\n
+ Claremont defeated Swan Districts\n
+ 14.17 (101) to 9.8 (62)
 END:VEVENT
 BEGIN:VEVENT
 UID:1abd3190-eb17-4d03-bace-9568769b18c8
@@ -395,9 +397,9 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:997e1f5c-8687-4869-86bd-93b58041bb4f
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251221T052343Z
-DTSTART;TZID=Australia/West:20260607T133000
+DTSTART;TZID=Australia/West:20260606T133000
 DURATION:PT3H
 SUMMARY:Peel Thunder vs Swan Districts - WAFL Round 9
 LOCATION:Lane Group Stadium\, Mandurah
