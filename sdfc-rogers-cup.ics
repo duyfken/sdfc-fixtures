@@ -321,7 +321,7 @@ DESCRIPTION:Perth defeated by Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:98deb2aa-ff14-4aca-adf0-1004a130d725
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251222T090958Z
 DTSTART;TZID=Australia/West:20260503T162000
 DURATION:PT2H
@@ -329,7 +329,7 @@ SUMMARY:East Perth vs Swan Districts - Rogers Cup Round 6
 LOCATION:Sullivan Logistics Stadium\, Leederville
 TRANSP:OPAQUE
 DESCRIPTION:East Perth defeated by Swan Districts\n
-2.4 (16) to 6.11 (47)
+ 2.4 (16) to 6.11 (47)
 END:VEVENT
 BEGIN:VEVENT
 UID:9dcfa80b-9d88-4c52-b3fb-c3d0bb5f88c3
