@@ -329,14 +329,16 @@ DESCRIPTION:TV Broadcast: WAFL Youtube\n
 END:VEVENT
 BEGIN:VEVENT
 UID:fa2af4fe-3759-4020-9152-dd83d525add1
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T011930Z
 DTSTART;TZID=Australia/West:20260509T091500
 DURATION:PT135M
 SUMMARY:Swan Districts vs East Fremantle - Colts Round 6
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ Swan Districts defeated East Fremantle\n
+ 15.15 (105) to 10.6 (66)
 END:VEVENT
 BEGIN:VEVENT
 UID:5c9685bf-9b49-4972-adda-518ecdab31cd
