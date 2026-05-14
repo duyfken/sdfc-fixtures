@@ -336,13 +336,15 @@ DESCRIPTION:Claremont defeated by Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:234cb810-1b0d-4b70-9a20-c629c74af4dd
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251224T051930Z
 DTSTART;TZID=Australia/West:20260509T114500
 DURATION:PT150M
 SUMMARY:Swan Districts vs East Fremantle - Reserves Round 6
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated East Fremantle\n
+ 20.15 (135) to 2.6 (18)
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5f9124-bb0a-4297-be7e-fd256de5e7a4
