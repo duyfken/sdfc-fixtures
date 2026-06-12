@@ -23,6 +23,7 @@ Rogers Cup Fixtures = `sdfc-rogers-cup.ics`
 Futures Fixtures = `sdfc-futures.ics`
 
 ### Example event (Round 1 League fixture)
+
 ```
 BEGIN:VEVENT
 DTEND;TZID=Australia/West:20250405T173000
@@ -35,7 +36,18 @@ TRANSP:OPAQUE
 UID:2c714e63-05c3-45bd-b21d-73d020b10115
 END:VEVENT
 ```
-All events must have these properties/lines as a minimum, though others may be added if needed (such as `DESCRIPTION:First line\nSecond line`,  to add a detailed, multi-line description, such as broadcast information or results, where the `\n` denotes a line break)
+
+All events must have these properties/lines as a minimum, though others may be added if needed. A perfect example of this is for a description, where to add a detailed, multi-line description, such as broadcast information and subsequent results, a `\n` must be used after at most 75 characters to denote a line break, and you must put a space at the start of the new line after `\n`. If a line needs be longer than 75 characters, it must be folded or it will cause an error in the iCalendar code.)
+
+```
+DESCRIPTION:First line\n
+ Second line
+
+DESCRIPTION:This is a long description that exists on a long line.
+DESCRIPTION:This is a lo
+ ng description
+  that exists on a long line.
+```
 
 ### Outline of the Required Event Properties
 The specifications for each property will be mentioned here, as it's the raw files that are visible in this repo, and what will be contributed using Git. If you use a iCalendar editor to create or edit events, it is the contributors responsibility to confirm their contributions conform to the required specifications, as not all Calendar apps create events that conform to the iCalendar specifications all the time (we're looking at you Google and Microsoft :wink:) Properties can be mentioned in any order, the order does not matter (other than 1. exception), simply that they exist to provide the necessary information.
