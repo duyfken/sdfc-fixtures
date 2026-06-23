@@ -381,13 +381,15 @@ DESCRIPTION:Swan Districts defeated East Perth\n
 END:VEVENT
 BEGIN:VEVENT
 UID:79065b46-3b74-416e-b1e3-8222765578e9
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251222T091601Z
 DTSTART;TZID=Australia/West:20260621T100500
 DURATION:PT2H
 SUMMARY:South Fremantle vs Swan Districts - Rogers Cup Round 12
 LOCATION:Fremantle Community Bank Oval\, Fremantle
 TRANSP:OPAQUE
+DESCRIPTION:South Fremantle defeated by Swan Districts\n
+ 2.6 (18) to 6.6 (42)
 END:VEVENT
 BEGIN:VEVENT
 UID:f3402f70-0e9e-4edf-a50c-401a4906c342
