@@ -393,13 +393,15 @@ DESCRIPTION:South Fremantle defeated by Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:f3402f70-0e9e-4edf-a50c-401a4906c342
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251222T091639Z
 DTSTART;TZID=Australia/West:20260627T100500
 DURATION:PT2H
 SUMMARY:Swan Districts vs Subiaco - Rogers Cup Round 13
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated Subiaco\n
+ 9.4 (58) to 2.9 (21)
 END:VEVENT
 BEGIN:VEVENT
 UID:02c954a0-2061-4a5b-b1ba-a85b6c1a1ba9
