@@ -431,14 +431,16 @@ DESCRIPTION:TV Broadcast: 7Plus\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4c9e53-324c-47e9-98fa-8f40525dd378
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251221T052539Z
 DTSTART;TZID=Australia/West:20260627T143000
 DURATION:PT3H
 SUMMARY:Subiaco vs Swan Districts - WAFL Round 12
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3\n
+ Subiaco defeated Swan Districts\n
+ 9.6 (60) to 8.8 (56)
 END:VEVENT
 BEGIN:VEVENT
 UID:90e3f80a-ee8c-4527-968f-78034561b1c4
