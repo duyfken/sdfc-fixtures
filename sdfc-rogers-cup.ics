@@ -405,13 +405,15 @@ DESCRIPTION:Swan Districts defeated Subiaco\n
 END:VEVENT
 BEGIN:VEVENT
 UID:02c954a0-2061-4a5b-b1ba-a85b6c1a1ba9
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251222T091728Z
 DTSTART;TZID=Australia/West:20260704T100500
 DURATION:PT2H
 SUMMARY:Swan Districts vs East Fremantle - Rogers Cup Round 14
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated East Fremantle\n
+ 8.6 (54) to 4.1 (25)
 END:VEVENT
 BEGIN:VEVENT
 UID:6124f95d-3f59-4687-96de-bbdfaacd370c
