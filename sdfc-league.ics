@@ -457,24 +457,28 @@ DESCRIPTION:TV Broadcast: 7Plus\n
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc6a3a8-ab07-47ae-9ffc-c11f0b6cb906
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251221T052916Z
 DTSTART;TZID=Australia/West:20260711T143000
 DURATION:PT3H
 SUMMARY:Swan Districts vs East Perth - WAFL Round 14
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3\n
+ Swan Districts defeated East Perth\n
+ 13.11 (89) to 10.10 (70)
 END:VEVENT
 BEGIN:VEVENT
 UID:6486ce8b-4c5d-4d36-8e54-5331e3bdfbd5
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251221T053205Z
 DTSTART;TZID=Australia/West:20260718T143000
 DURATION:PT3H
 SUMMARY:South Fremantle vs Swan Districts - WAFL Round 15
 LOCATION:Fremantle Community Bank Oval\, Fremantle
 TRANSP:OPAQUE
+DESCRIPTION:South Fremantle defeated Swan Districts\n
+ 7.10 (52) to 5.11 (41)
 END:VEVENT
 BEGIN:VEVENT
 UID:e41a13ce-81fd-4cb8-94bd-e2b8909f26a4
