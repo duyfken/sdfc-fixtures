@@ -407,25 +407,29 @@ DESCRIPTION:TV Broadcast: WAFL Youtube\n
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb233a4-b7c7-4fe0-931f-1e0cf5b0c5f2
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T012916Z
 DTSTART;TZID=Australia/West:20260711T090000
 DURATION:PT135M
 SUMMARY:Swan Districts vs East Perth - Colts Round 14
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ Swan Districts defeated East Perth\n
+ 7.5 (47) to 7.4 (46)
 END:VEVENT
 BEGIN:VEVENT
 UID:38c2c5ad-80c2-4ccc-bc52-f9d10f1b4e4a
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T013205Z
 DTSTART;TZID=Australia/West:20260718T091500
 DURATION:PT135M
 SUMMARY:South Fremantle vs Swan Districts - Colts Round 15
 LOCATION:Fremantle Community Bank Oval\, Fremantle
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ South Fremantle defeated Swan Districts\n
+ 15.16 (106) to 4.7 (31)
 END:VEVENT
 BEGIN:VEVENT
 UID:f177881f-da70-4d20-90a0-5eacbcd6914d
