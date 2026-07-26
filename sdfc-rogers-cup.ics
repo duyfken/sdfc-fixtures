@@ -429,13 +429,15 @@ DESCRIPTION:West Perth defeated by Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:9504a8e1-5d1f-4ead-93af-42f24df92ecb
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251222T091938Z
 DTSTART;TZID=Australia/West:20260725T160500
 DURATION:PT2H
 SUMMARY:Swan Districts vs Peel Thunder - Rogers Cup Round 17
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated Peel Thunder\n
+ 16.17 (113) to 1.0 (6)
 END:VEVENT
 BEGIN:VEVENT
 UID:e14d2da0-a80a-4ac4-8d82-00e7c89cdb6d
