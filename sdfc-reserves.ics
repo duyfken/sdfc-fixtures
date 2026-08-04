@@ -432,13 +432,15 @@ DESCRIPTION:South Fremantle defeated by Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:dbf2315d-76e8-4d58-98e4-f3854666c426
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251224T053305Z
 DTSTART;TZID=Australia/West:20260801T101500
 DURATION:PT150M
 SUMMARY:Swan Districts vs Peel Thunder - Reserves Round 17
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
+DESCRIPTION:Swan Districts defeated by Peel Thunder\n
+ 8.8 (56) to 8.13 (61)
 END:VEVENT
 BEGIN:VEVENT
 UID:8f48029f-7dac-46e5-b862-121caa8ea3bf
