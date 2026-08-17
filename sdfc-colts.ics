@@ -446,25 +446,29 @@ DESCRIPTION:TV Broadcast: WAFL Youtube\n
 END:VEVENT
 BEGIN:VEVENT
 UID:34d1d457-1ff8-41fc-828b-b6f217699acf
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T013351Z
 DTSTART;TZID=Australia/West:20260808T091500
 DURATION:PT135M
 SUMMARY:Swan Districts vs Claremont - Colts Round 18
 LOCATION:Steel Blue Oval\, Bassendean
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ Swan Districts defeated by Claremont\n
+ 4.7 (31) to 8.9 (57)
 END:VEVENT
 BEGIN:VEVENT
 UID:12a8b8df-f93f-48ab-b5d8-e0dc5c4f150d
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T013445Z
 DTSTART;TZID=Australia/West:20260815T091500
 DURATION:PT135M
 SUMMARY:Perth vs Swan Districts - Colts Round 19
 LOCATION:Mineral Resources Park\, Lathlain
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ Perth defeated by Swan Districts\n
+ 8.7 (55) to 9.4 (58)
 END:VEVENT
 BEGIN:VEVENT
 UID:85fea60f-bc9e-4db5-816a-6c0635d088c9
