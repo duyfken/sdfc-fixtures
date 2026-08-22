@@ -468,12 +468,14 @@ DESCRIPTION:Perth defeated Swan Districts\n
 END:VEVENT
 BEGIN:VEVENT
 UID:5cd10c2c-dd9b-426e-bab9-2bf175d1c7e0
-SEQUENCE:0
+SEQUENCE:1
 DTSTAMP:20251224T053554Z
 DTSTART;TZID=Australia/West:20260822T114500
 DURATION:PT150M
 SUMMARY:East Fremantle vs Swan Districts - Reserves Round 20
 LOCATION:The Good Grocer Park\, East Fremantle
 TRANSP:OPAQUE
+DESCRIPTION:East Fremantle defeated by Swan Districts\n
+ 8.4 (52) to 10.21 (81)
 END:VEVENT
 END:VCALENDAR
