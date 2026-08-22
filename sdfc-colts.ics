@@ -472,13 +472,15 @@ DESCRIPTION:TV Broadcast: WAFL Youtube\n
 END:VEVENT
 BEGIN:VEVENT
 UID:85fea60f-bc9e-4db5-816a-6c0635d088c9
-SEQUENCE:1
+SEQUENCE:2
 DTSTAMP:20251225T013554Z
 DTSTART;TZID=Australia/West:20260822T091500
 DURATION:PT135M
 SUMMARY:East Fremantle vs Swan Districts - Colts Round 20
 LOCATION:The Good Grocer Park\, East Fremantle
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+ East Fremantle defeated Swan Districts\n
+ 20.13 (133) to 2.3 (15)
 END:VEVENT
 END:VCALENDAR
