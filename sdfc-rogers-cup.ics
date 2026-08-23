@@ -469,9 +469,11 @@ DTSTAMP:20260817T043152Z
 DTSTART;TZID=Australia/West:20260823T112000
 DURATION:PT2H
 LOCATION:Fremantle Community Bank Oval\, Fremantle
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs East Fremantle - Rogers Cup Grand Final
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: WAFL Youtube
+DESCRIPTION:TV Broadcast: WAFL Youtube\n
+East Fremantle defeated by Swan Districts\n
+ 5.4 (34) to 4.9 (33)
 END:VEVENT
 END:VCALENDAR
