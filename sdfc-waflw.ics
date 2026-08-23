@@ -514,9 +514,11 @@ DTSTAMP:20260817T042752Z
 DTSTART;TZID=Australia/West:20260823T140500
 DURATION:PT2H
 LOCATION:Fremantle Community Bank Oval\, Fremantle
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Swan Districts vs East Fremantle - WAFLW Grand Final
 TRANSP:OPAQUE
-DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3
+DESCRIPTION:TV Broadcast: 7Plus\nRadio Broadcast: SportFM 91.3\n
+ Swan Districts defeated by East Fremantle\n
+ 2.7 (19) to 3.5 (23)
 END:VEVENT
 END:VCALENDAR
